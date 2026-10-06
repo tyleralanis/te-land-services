@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://tyleralanis.github.io/te-land-services/sitemap.xml
